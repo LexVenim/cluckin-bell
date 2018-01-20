@@ -1,0 +1,28 @@
+{
+  "name": "cluckin-bell",
+  "version": "1.0.0",
+  "description": "Local fastfood menu app (React + Node.js)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lexvenim/cluckin-bell.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lexvenim/cluckin-bell/issues"
+  },
+  "homepage": "https://github.com/lexvenim/cluckin-bell#readme",
+  "dependencies": {
+    "next": "^4.2.3",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
