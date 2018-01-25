@@ -44,6 +44,7 @@ export default class extends React.Component {
                     font-family: Padaloma;
                     color: crimson;
                     font-size: calc(5px + 1vw);
+                    border-bottom: 1px dashed;
                 }
 
                 #logo {
